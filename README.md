@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	vector "go-math-vector"
+	vector "github.com/donfrigo/go-math-vector"
 )
 
 func main() {
